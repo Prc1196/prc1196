@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Pradeep+Reddy;DevOps+%7C+Cloud+%7C+MLOps+Engineer;Open+Source+Contributor;Blogger+on+Medium;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prc1196&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Pradeep Reddy</h1>
 <h3 align="center">A DevOps | Cloud | MLOps Enthusiast</h3>
