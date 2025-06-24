@@ -1,3 +1,4 @@
+HEAD
 
 <h1 align="center">Hi 👋, I'm Pradeep Reddy</h1>
 <h3 align="center">🚀 DevOps | Cloud | MLOps Enthusiast | Tech Explorer</h3>
@@ -87,3 +88,21 @@ If you enjoy my work or want to collaborate:
 ---
 
 <h4 align="center">🚀 Building DevOps pipelines with passion, purpose, and precision 💡</h4>
+=======
+## Hi there 👋
+
+<!--
+**Prc1196/prc1196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+f88fd620b39ad9fbb54f13e9a714d03e03841da1
