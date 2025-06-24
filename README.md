@@ -47,20 +47,6 @@
 <div>
 
 
-<!DOCTYPE html>
-<html>
-  <head>
-  <!-- <title>Animated Image</title>
-  </head>
-  <body>
-
-  <h1>My Animated GIF</h1> -->
-
-  <img src="image.gif" alt="Animated Line Image">
-
-  </body>
-</html>
-
 ---
 <h2>🚀 Tech Stack</h2>
 
