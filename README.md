@@ -26,12 +26,12 @@
 ### <p align="center">My Technical Skills</p>
 
 <p align="center">
-  <a href="https://sachin2815.netlify.app">
+  <a href="https://Prc1196.netlify.app">
     <img src="https://skillicons.dev/icons?i=aws,docker,linux,ansible,jenkins,kubernetes,grafana,git" />
   </a>
 </p>
 <p align="center">
-  <a href="https://sachin2815.netlify.app">
+  <a href="https://Prc1196.netlify.app">
     <img src="https://skillicons.dev/icons?i=openshift,python,prometheus,gitlab,wordpress" />
   </a>
 </p>
