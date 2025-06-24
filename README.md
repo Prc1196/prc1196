@@ -1,10 +1,3 @@
-<h3 align="center">👋 Hi, I'm Pradeep Reddy</h3>
-<p align="center"><strong>A DevOps | Cloud | MLOps Enthusiast</strong></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=DevOps+Engineer;Cloud+Specialist;Terraform+%7C+K8s+%7C+AWS;Automation+Lover" alt="Typing SVG" />
-</p>
-
 
 
 <h1 align="center">Hi 👋, I'm Pradeep Reddy</h1>
