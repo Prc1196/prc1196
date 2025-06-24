@@ -7,19 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=prc1196&label=Profile%20views&color=0e75b6&style=flat" alt="prc1196" />
 </p>
 
-<!DOCTYPE html>
-<html>
-  <head>
-  <!-- <title>Animated Image</title>
-  </head>
-  <body>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-  <h1>My Animated GIF</h1> -->
-
-  <img src="image.gif" alt="Animated Line Image">
-
-  </body>
-</html>
+<div>
 
 
 ### 👨‍💻 About Me
