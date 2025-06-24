@@ -10,11 +10,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <title>Animated Image</title>
+  <!-- <title>Animated Image</title>
   </head>
   <body>
 
-  <h1>My Animated GIF</h1>
+  <h1>My Animated GIF</h1> -->
 
   <img src="image.gif" alt="Animated Line Image">
 
@@ -32,16 +32,16 @@
 ---
 <!DOCTYPE html>
 <html>
-<head>
-<title>Animated Image</title>
-</head>
-<body>
+  <head>
+  <!-- <title>Animated Image</title>
+  </head>
+  <body>
 
-<h1>My Animated GIF</h1>
+  <h1>My Animated GIF</h1> -->
 
-<img src="devops/daws-82s/repos/prc1196/image.gif" alt="Animated Line Image">
+  <img src="image.gif" alt="Animated Line Image">
 
-</body>
+  </body>
 </html>
 
 <h2>🚀 Tech Stack</h2>
