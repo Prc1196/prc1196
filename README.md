@@ -1,108 +1,64 @@
-HEAD
 
 <h1 align="center">Hi 👋, I'm Pradeep Reddy</h1>
-<h3 align="center">🚀 DevOps | Cloud | MLOps Enthusiast | Tech Explorer</h3>
+<h3 align="center">A DevOps | Cloud | MLOps Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pradeep-reddy-869492347/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-  </a>
-  <a href="https://medium.com/@prc1196" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Blogs-black?logo=medium" />
-  </a>
-  <a href="mailto:prc1196@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=prc1196&label=Profile%20views&color=0e75b6&style=flat" alt="prc1196" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently building and automating cloud infrastructure with AWS, Terraform, and Kubernetes  
-- 👨‍🏫 Passionate about DevOps & MLOps with hands-on real-time project experience  
-- ✍️ Writing Medium blogs on AWS, DevOps practices, and deployment case studies  
-- 💬 Ask me about: AWS, Docker, CI/CD, IaC, Linux, Monitoring  
-- 🌱 Learning more about: Platform Engineering and Generative AI in DevOps  
-- ⚡ Fun fact: I treat each deployment like a mission 🚀 — stable, secure, and scalable  
+
+🔭 I’m currently working on **AWS Cloud Projects, CI/CD Pipelines, and Infrastructure as Code**  
+🌱 I’m exploring **Kubernetes, Helm, Terraform, and GitHub Actions**  
+📫 How to reach me: **prc1196@gmail.com**  
+📝 I regularly write on [Medium](https://medium.com/@prc1196)
 
 ---
 
 ### 🧰 Tech Stack
 
-| Area | Tools & Technologies |
-|------|----------------------|
-| 🛠️ DevOps | Terraform, Docker, Kubernetes, GitHub Actions, Jenkins |
-| ☁️ Cloud | AWS (EC2, S3, RDS, EKS), Azure, GCP |
-| 📁 OS & Scripting | Linux, Shell, Bash |
-| 🧠 MLOps | MLflow, Airflow, Jupyter, Python |
-| 📦 Version Control | Git, GitHub |
-| 🔍 Monitoring | CloudWatch, Grafana, Prometheus |
-| 🛠️ Tools | VS Code, PyCharm, Postman |
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=flat&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+
+---
+
+### ✍️ Latest Medium Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+📌 *Auto-updating from [Medium](https://medium.com/@prc1196) using GitHub Action from [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)*
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prc1196&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prc1196&theme=radical" />
-  <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=prc1196&theme=github-compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prc1196&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prc1196&layout=compact&theme=radical" alt="langs" />
 </p>
 
 ---
 
-### 📝 Latest Blog Posts
+### 🐍 Contribution Snake
 
-- 📘 [Mastering AWS for DevOps & DevSecOps Engineers](https://medium.com/@prc1196)
-- 📍 [How to Host Scalable Web Applications on AWS](https://medium.com/@prc1196)
-- 🤖 [CI/CD Security: Implementing Least Privilege in Pipelines](https://medium.com/@prc1196)
-
----
-
-### 🚀 Featured Projects
-
-- 🔧 [DevOps Infrastructure as Code Setup (AWS + Terraform)](https://github.com/prc1196)
-- 📡 [Cloud Monitoring & Alerting Stack with Prometheus + Grafana](https://github.com/prc1196)
-- 🧪 [MLOps Workflow with MLflow and S3 Bucket](https://github.com/prc1196)
-
----
-
-### ☕ Let's Connect
-
-If you enjoy my work or want to collaborate:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/pradeep-reddy-869492347/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pradeep-blue?logo=linkedin" />
-  </a>
-  <a href="https://medium.com/@prc1196">
-    <img src="https://img.shields.io/badge/Medium-Read%20my%20blogs-black?logo=medium" />
-  </a>
-  <a href="mailto:prc1196@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?logo=gmail" />
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prc1196/prc1196/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
 
-<h4 align="center">🚀 Building DevOps pipelines with passion, purpose, and precision 💡</h4>
-=======
-## Hi there 👋
+### 🔗 Connect with Me
 
-<!--
-**Prc1196/prc1196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/pradeep-reddy-869492347/)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&style=for-the-badge)](https://medium.com/@prc1196)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-f88fd620b39ad9fbb54f13e9a714d03e03841da1
+---
