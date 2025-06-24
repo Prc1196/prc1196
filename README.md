@@ -16,26 +16,140 @@
 📝 I regularly write on [Medium](https://medium.com/@prc1196)
 
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tech Stack</title>
+  <style>
+    body {
+      background-color: #121212;
+      color: #e0e0e0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      padding: 20px;
+    }
 
-### 🧰 Tech Stack
+    h2 {
+      color: #90caf9;
+      border-bottom: 2px solid #90caf9;
+      padding-bottom: 5px;
+      margin-bottom: 20px;
+    }
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=flat&logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: #1e1e1e;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+      border-radius: 10px;
+      overflow: hidden;
+    }
 
----
+    th, td {
+      padding: 12px 16px;
+      text-align: left;
+      vertical-align: top;
+      border-bottom: 1px solid #333;
+    }
 
-### ✍️ Latest Medium Articles
+    th {
+      background-color: #212121;
+      color: #ffffff;
+      font-size: 1rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+    td img {
+      margin: 4px;
+      vertical-align: middle;
+    }
 
-📌 *Auto-updating from [Medium](https://medium.com/@prc1196) 
+    td strong {
+      color: #ffcc80;
+    }
+  </style>
+</head>
+<body>
+
+<h2>🚀 Tech Stack</h2>
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+
+  <tr>
+    <td><strong>DevOps Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
+      <img src="https://img.shields.io/badge/-OpenShift-ee0000?logo=redhat&logoColor=white" alt="OpenShift">
+      <img src="https://img.shields.io/badge/-Microservices-000000?style=flat&logo=buffer" alt="Microservices">
+      <img src="https://img.shields.io/badge/-Ansible-000000?logo=ansible&logoColor=white" alt="Ansible">
+      <img src="https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform">
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Cloud Platforms</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white" alt="AWS">
+      </td>
+  </tr>
+
+  <tr>
+    <td><strong>Operating Systems</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
+      <img src="https://img.shields.io/badge/-Fedora-294172?logo=fedora&logoColor=white" alt="Fedora">
+      <img src="https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white" alt="Debian">
+      <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu">
+      <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
+      <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white" alt="Android">
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/-Shell_Script-121011?logo=gnu-bash&logoColor=white" alt="Shell Script">
+    </td>
+  </tr>
+
+
+  <tr>
+    <td><strong>IDEs & Editors</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code">
+      <img src="https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white" alt="Vim">
+      </td>
+  </tr>
+
+  <tr>
+    <td><strong>Version Control</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Servers & CI/CD</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins">
+      <img src="https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white" alt="Apache">
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-MongoDB-47
+
+
 
 ---
 
