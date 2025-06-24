@@ -144,12 +144,19 @@
     </td>
   </tr>
 
-  <tr>
+   <tr>
     <td><strong>Databases</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/-MongoDB-47
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
+    </td>
+  </tr>
+</table>
 
+</body>
+</html>
 
+---
 
 ---
 
