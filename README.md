@@ -7,6 +7,19 @@
   <img src="https://komarev.com/ghpvc/?username=prc1196&label=Profile%20views&color=0e75b6&style=flat" alt="prc1196" />
 </p>
 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Animated Image</title>
+</head>
+<body>
+
+<h1>My Animated GIF</h1>
+
+<img src="image.gif" alt="Animated Line Image">
+
+</body>
+</html>
 ---
 
 ### 👨‍💻 About Me
@@ -17,6 +30,19 @@
 📝 I regularly write on [Medium](https://medium.com/@prc1196)
 
 ---
+<!DOCTYPE html>
+<html>
+<head>
+<title>Animated Image</title>
+</head>
+<body>
+
+<h1>My Animated GIF</h1>
+
+<img src="image.gif" alt="Animated Line Image">
+
+</body>
+</html>
 
 <h2>🚀 Tech Stack</h2>
 
