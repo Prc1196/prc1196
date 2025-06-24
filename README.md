@@ -29,7 +29,24 @@
 📫 How to reach me: **prc1196@gmail.com**  
 📝 I regularly write on [Medium](https://medium.com/@prc1196)
 
----
+### <p align="center">My Technical Skills</p>
+
+<p align="center">
+  <a href="https://sachin2815.netlify.app">
+    <img src="https://skillicons.dev/icons?i=aws,docker,linux,ansible,jenkins,kubernetes,grafana,git" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://sachin2815.netlify.app">
+    <img src="https://skillicons.dev/icons?i=openshift,python,prometheus,gitlab,c,wordpress" />
+  </a>
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<div>
+
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -43,7 +60,7 @@
 
   </body>
 </html>
-
+---
 <h2>🚀 Tech Stack</h2>
 
 <table>
