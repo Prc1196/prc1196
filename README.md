@@ -1,6 +1,10 @@
+<h3 align="center">👋 Hi, I'm Pradeep Reddy</h3>
+<p align="center"><strong>A DevOps | Cloud | MLOps Enthusiast</strong></p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Pradeep+Reddy;DevOps+%5C+Cloud+%3C+MLOps+Engineer;Open+Source+Contributor;Blogger+on+Medium;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=DevOps+Engineer;Cloud+Specialist;Terraform+%7C+K8s+%7C+AWS;Automation+Lover" alt="Typing SVG" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Pradeep Reddy</h1>
