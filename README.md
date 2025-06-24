@@ -19,6 +19,10 @@
 📫 How to reach me: **prc1196@gmail.com**  
 📝 I regularly write on [Medium](https://medium.com/@prc1196)
 
+<p align="center">My name is Pradeep Reddy.I’m a dedicated learner who enjoys solving problems and trying new things. I work well both in teams and on my own, and I am always ready for new challenges. With experience in automation and troubleshooting, I also have strong skills in leading teams. I’m excited to use my abilities in creative and dynamic projects..</p>
+
+
+
 ### <p align="center">My Technical Skills</p>
 
 <p align="center">
