@@ -39,7 +39,7 @@
 
 <h1>My Animated GIF</h1>
 
-<img src="image.gif" alt="Animated Line Image">
+<img src="devops/daws-82s/repos/prc1196/image.gif" alt="Animated Line Image">
 
 </body>
 </html>
