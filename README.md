@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Pradeep+Reddy;DevOps+%7C+Cloud+%7C+MLOps+Engineer;Open+Source+Contributor;Blogger+on+Medium;Always+learning+something+new!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prc1196&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Pradeep Reddy</h1>
 <h3 align="center">A DevOps | Cloud | MLOps Enthusiast</h3>
@@ -16,61 +23,6 @@
 📝 I regularly write on [Medium](https://medium.com/@prc1196)
 
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Tech Stack</title>
-  <style>
-    body {
-      background-color: #121212;
-      color: #e0e0e0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      padding: 20px;
-    }
-
-    h2 {
-      color: #90caf9;
-      border-bottom: 2px solid #90caf9;
-      padding-bottom: 5px;
-      margin-bottom: 20px;
-    }
-
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      background-color: #1e1e1e;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
-      border-radius: 10px;
-      overflow: hidden;
-    }
-
-    th, td {
-      padding: 12px 16px;
-      text-align: left;
-      vertical-align: top;
-      border-bottom: 1px solid #333;
-    }
-
-    th {
-      background-color: #212121;
-      color: #ffffff;
-      font-size: 1rem;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-    }
-
-    td img {
-      margin: 4px;
-      vertical-align: middle;
-    }
-
-    td strong {
-      color: #ffcc80;
-    }
-  </style>
-</head>
-<body>
 
 <h2>🚀 Tech Stack</h2>
 
