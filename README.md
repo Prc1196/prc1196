@@ -9,16 +9,16 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-<title>Animated Image</title>
-</head>
-<body>
+  <head>
+  <title>Animated Image</title>
+  </head>
+  <body>
 
-<h1>My Animated GIF</h1>
+  <h1>My Animated GIF</h1>
 
-<img src="image.gif" alt="Animated Line Image">
+  <img src="image.gif" alt="Animated Line Image">
 
-</body>
+  </body>
 </html>
 ---
 
@@ -142,6 +142,7 @@
 ---
 
 ### 🐍 Contribution Snake
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/prc1196/prc1196/output/github-contribution-grid-snake.svg" alt="snake gif" />
