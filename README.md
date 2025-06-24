@@ -35,7 +35,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-📌 *Auto-updating from [Medium](https://medium.com/@prc1196) using GitHub Action from [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)*
+📌 *Auto-updating from [Medium](https://medium.com/@prc1196) 
 
 ---
 
