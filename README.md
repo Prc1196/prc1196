@@ -38,7 +38,7 @@
 </p>
 <p align="center">
   <a href="https://sachin2815.netlify.app">
-    <img src="https://skillicons.dev/icons?i=openshift,python,prometheus,gitlab,c,wordpress" />
+    <img src="https://skillicons.dev/icons?i=openshift,python,prometheus,gitlab,wordpress" />
   </a>
 </p>
 
@@ -60,6 +60,7 @@
 
   </body>
 </html>
+
 ---
 <h2>🚀 Tech Stack</h2>
 
